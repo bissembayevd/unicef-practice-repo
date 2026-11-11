@@ -1,2 +1,1 @@
-# unicef-practice-repo
-assignment 
+This is a repository for practicing the GitHub workflow.
